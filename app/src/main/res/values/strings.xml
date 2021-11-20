@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">OsmanTahir_COMP304Sec004_Lab4</string>
+
+    <string name="app_name1">Student Library</string>
+    <string name="last_name">Last name</string>
+    <string name="first_name">First name</string>
+    <string name="department">Classroom</string>
+    <string name="room">Room</string>
+    <string name="update">Update</string>
+    <string name="userid">Userid</string>
+    <string name="password">Password</string>
+    <string name="not_registrated_click_here">Not Registrated?!\n## Click Here ##</string>
+    <string name="enter_patient_last_name">Enter Student Last name</string>
+    <string name="enter_patient_first_name">Enter Student First name</string>
+    <string name="enter_department">Enter Course</string>
+    <string name="room_no">Room No.</string>
+    <string name="add">add</string>
+    <string name="login">Professor Login</string>
+    <string name="registration">Registration</string>
+    <string name="lname">Last Name</string>
+    <string name="fname">First Name</string>
+    <string name="department_name">Classroom</string>
+    <string name="submit">submit</string>
+    <string name="bpl">Term</string>
+    <string name="bph">Test</string>
+    <string name="temperature">Grade</string>
+    <string name="sub">submit</string>
+    <string name="password1">Password</string>
+    <string name="GoToNurseLoginPage">Professor Login Page</string>
+    <string name="TestNurseID">1</string>
+    <string name="TestNursePassword">123</string>
+    <string name="TestNurseFirstName">Osman</string>
+    <string name="TestNurseLastName">Saaima</string>
+    <string name="TestNurseDepartment">Computer science</string>
+</resources>

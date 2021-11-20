@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android" xmlns:tools="http://schemas.android.com/tools" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="10dp"
+    android:background="#FABEBA">
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="@string/first_name"
+        android:id="@+id/fname"
+        android:textColorHint="@color/colorPrimary"
+        android:textSize="20sp"
+        android:background="@drawable/editbg"
+        android:padding="10dp"
+        android:layout_marginTop="20dp"
+        android:autofillHints=""
+        android:inputType="" tools:targetApi="o"/>
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="@string/last_name"
+        android:id="@+id/lname"
+        android:textColorHint="@color/colorPrimary"
+        android:textSize="20sp"
+        android:background="@drawable/editbg"
+        android:padding="10dp"
+        android:layout_marginTop="10dp"
+        android:autofillHints=""
+        android:inputType="" tools:targetApi="o"/>
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="@string/department"
+        android:id="@+id/dept"
+        android:background="@drawable/editbg"
+        android:padding="10dp"
+        android:layout_marginTop="10dp"
+        android:textColorHint="@color/colorPrimary"
+        android:textSize="20sp"
+        android:inputType=""
+        android:autofillHints="" tools:targetApi="o"/>
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="@string/room"
+        android:background="@drawable/editbg"
+        android:padding="10dp"
+        android:layout_marginTop="10dp"
+        android:id="@+id/room"
+        android:textColorHint="@color/colorPrimary"
+        android:textSize="20sp"
+        android:inputType=""
+        android:autofillHints="" tools:targetApi="o"/>
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20sp"
+        android:text="@string/update"
+        android:layout_gravity="center"
+        android:id="@+id/update"
+        android:background="@color/colorPrimary"
+        android:textSize="20sp"
+        android:textColor="@android:color/white"/>
+
+</LinearLayout>
